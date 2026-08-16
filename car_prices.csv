@@ -1,0 +1,501 @@
+car_id,brand,model,year,km_driven,fuel,transmission,owner,engine_cc,seats,city,color,insurance,price_inr
+C0001,Maruti,Wagon R,2021,59508.0,Diesel,Manual,4,1498.0,5,Kolkata,Red,Comprehensive,785877
+C0002,Mahindra,Scorpio,2016,104688.0,Diesel,Manual,1,2993.0,5,Ahmedabad,White,Third Party,1305523
+C0003,Hyundai,Grand i10,2021,68005.0,CNG,Automatic,1,1497.0,5,Mumbai,White,Comprehensive,1164437
+C0004,Renault,Triber,2018,71279.0,Petrol,Manual,1,2993.0,5,Delhi,Silver,Comprehensive,1079477
+C0005,Renault,Duster,2015,93918.0,Petrol,Automatic,2,2755.0,5,Ahmedabad,Black,Third Party,897128
+C0006,Volkswagen,Polo,2022,39704.0,Diesel,Automatic,2,998.0,5,Pune,Grey,Comprehensive,1416271
+C0007,Tata,Tiago,2021,15708.0,Diesel,Manual,1,1591.0,5,Kolkata,Black,Comprehensive,1107802
+C0008,Renault,Kwid,2017,69037.0,Petrol,Manual,1,1498.0,5,Mumbai,Grey,Comprehensive,705672
+C0009,Renault,Triber,2018,88721.0,Petrol,Manual,1,1498.0,5,Delhi,Silver,Comprehensive,838542
+C0010,Renault,Kwid,2019,80976.0,Petrol,Manual,2,2179.0,5,Jaipur,White,Comprehensive,783536
+C0011,Toyota,Yaris,2019,62193.0,Electric,Automatic,2,2179.0,5,Kolkata,Black,Comprehensive,1557920
+C0012,Hyundai,Verna,2021,53819.0,Diesel,Manual,2,1199.0,5,Mumbai,Red,Comprehensive,1173408
+C0013,Hyundai,Verna,2015,96577.0,Petrol,Manual,1,2179.0,5,Delhi,White,Comprehensive,758146
+C0014,Ford,EcoSport,2017,84983.0,Petrol,Manual,1,2993.0,7,Mumbai,Silver,Third Party,1130907
+C0015,Honda,Amaze,2021,53459.0,Diesel,Manual,1,1591.0,5,Pune,Grey,Comprehensive,1255290
+C0016,Toyota,Yaris,2014,123644.0,Diesel,Manual,2,2755.0,5,Chennai,Grey,Third Party,1041877
+C0017,Toyota,Innova,2020,36171.0,Petrol,Manual,1,2993.0,7,Mumbai,Red,Comprehensive,1888115
+C0018,Kia,Seltos,2020,56766.0,Electric,Manual,1,1591.0,5,Jaipur,Blue,Third Party,1778280
+C0019,Volkswagen,Virtus,2016,108644.0,Petrol,Automatic,2,2755.0,5,Ahmedabad,White,Third Party,1192569
+C0020,Maruti,Vitara Brezza,2024,41216.0,Diesel,Manual,1,1199.0,5,Kolkata,Blue,Comprehensive,1248324
+C0021,Renault,Kiger,2017,91907.0,Petrol,Manual,1,2993.0,5,Kochi,Red,Comprehensive,975300
+C0022,Renault,Triber,2022,18693.0,Diesel,Automatic,2,1998.0,5,Mumbai,White,Third Party,1281792
+C0023,Renault,Duster,2015,124686.0,Electric,Manual,3,1591.0,5,Pune,Grey,Comprehensive,712045
+C0024,Ford,EcoSport,2022,71692.0,Diesel,Automatic,2,1498.0,5,Delhi,Red,Comprehensive,1351354
+C0025,Honda,WR-V,2016,64848.0,Petrol,Manual,3,2393.0,5,Chennai,Silver,Comprehensive,975635
+C0026,Hyundai,Grand i10,2024,5000.0,Petrol,Manual,2,2755.0,7,Jaipur,White,Comprehensive,1475913
+C0027,Toyota,Innova,2016,85736.0,Petrol,Automatic,1,2755.0,5,Pune,White,Comprehensive,1476522
+C0028,Ford,EcoSport,2016,93504.0,Diesel,Automatic,1,1197.0,5,Jaipur,Grey,Third Party,809209
+C0029,Mahindra,XUV500,2019,119653.0,Petrol,Manual,1,1197.0,5,Kochi,Silver,Comprehensive,1108732
+C0030,Maruti,Vitara Brezza,2015,123642.0,Petrol,Automatic,3,998.0,7,Hyderabad,Red,Third Party,585982
+C0031,Kia,Carens,2022,29964.0,Petrol,Automatic,1,1197.0,5,Delhi,Grey,Comprehensive,1605006
+C0032,Tata,Altroz,2015,146092.0,Petrol,Manual,1,1498.0,5,Bengaluru,Red,Comprehensive,691257
+C0033,Kia,Carens,2023,44193.0,Petrol,Automatic,2,1591.0,7,Pune,Grey,Comprehensive,1704765
+C0034,Hyundai,Grand i10,2014,71692.0,CNG,Manual,2,1199.0,5,Delhi,Red,Comprehensive,335028
+C0035,Ford,EcoSport,2024,5000.0,Diesel,Automatic,2,2993.0,7,Kochi,Black,Comprehensive,1694785
+C0036,Mahindra,XUV300,2015,135795.0,Diesel,Manual,1,1197.0,5,Jaipur,Red,Comprehensive,758365
+C0037,Hyundai,Venue,2023,5000.0,Petrol,Manual,1,1197.0,5,Chennai,Red,Comprehensive,1388027
+C0038,Volkswagen,Virtus,2020,41959.0,Petrol,Manual,1,1199.0,7,Pune,Silver,Comprehensive,1481921
+C0039,Hyundai,Verna,2024,15141.0,Petrol,Manual,4,2993.0,5,Ahmedabad,Blue,Comprehensive,1628045
+C0040,Volkswagen,Taigun,2015,143876.0,Diesel,Manual,1,1197.0,7,Mumbai,Black,Comprehensive,921563
+C0041,Maruti,Baleno,2019,73972.0,Petrol,Automatic,3,2993.0,5,Kolkata,Blue,Comprehensive,1048077
+C0042,Kia,Seltos,2021,55541.0,Petrol,Manual,2,2755.0,5,Kochi,Blue,Third Party,1639448
+C0043,Maruti,Swift,2015,79124.0,Diesel,Manual,2,998.0,5,Delhi,Red,Third Party,501623
+C0044,Volkswagen,Taigun,2023,21755.0,Petrol,Manual,2,2755.0,5,Kochi,Blue,Comprehensive,1549346
+C0045,Maruti,Swift,2014,140964.0,Electric,Manual,1,1199.0,5,Kochi,White,Third Party,422762
+C0046,Tata,Nexon,2018,70889.0,Electric,Manual,2,1197.0,5,Ahmedabad,Grey,Comprehensive,1112960
+C0047,Mahindra,Scorpio,2018,99710.0,Diesel,Automatic,1,1998.0,5,Delhi,Silver,Comprehensive,1560097
+C0048,Renault,Kwid,2024,30872.0,Petrol,Manual,2,1497.0,5,Bengaluru,Silver,Comprehensive,1014393
+C0049,Kia,Seltos,2024,6222.0,Petrol,Manual,1,998.0,5,Pune,Red,Comprehensive,1774650
+C0050,Kia,Seltos,2016,122649.0,Petrol,Manual,1,2393.0,5,Ahmedabad,Red,Third Party,1293864
+C0051,Volkswagen,Taigun,2022,20469.0,Petrol,Automatic,1,1591.0,5,Kochi,White,Third Party,1571205
+C0052,Maruti,Baleno,2020,51943.0,Petrol,Automatic,1,1497.0,7,Kolkata,Blue,Comprehensive,1168092
+C0053,Honda,Jazz,2021,5000.0,Electric,Automatic,2,1197.0,5,Kolkata,Red,Third Party,1378563
+C0054,Renault,Triber,2017,106234.0,Petrol,Manual,1,998.0,7,Jaipur,Blue,Comprehensive,704890
+C0055,Volkswagen,Virtus,2021,71268.0,Petrol,Manual,2,1197.0,5,Mumbai,Silver,Comprehensive,1240508
+C0056,Honda,WR-V,2024,5000.0,Petrol,Manual,2,998.0,5,Kochi,White,Comprehensive,1315305
+C0057,Volkswagen,Taigun,2020,52939.0,Diesel,Manual,1,2179.0,5,Ahmedabad,Silver,Third Party,1466774
+C0058,Mahindra,XUV300,2021,44432.0,CNG,Manual,2,2755.0,5,Pune,Silver,Comprehensive,1411731
+C0059,Maruti,Baleno,2024,12420.0,Petrol,Manual,1,2993.0,5,Delhi,Blue,Comprehensive,1457095
+C0060,Hyundai,Verna,2020,62216.0,Diesel,Manual,4,998.0,5,Ahmedabad,Silver,Third Party,986836
+C0061,Mahindra,XUV300,2017,86711.0,CNG,Manual,2,2993.0,5,Delhi,Grey,Third Party,1274164
+C0062,Hyundai,Venue,2015,147783.0,Diesel,Manual,1,1497.0,5,Pune,Red,Comprehensive,837508
+C0063,Volkswagen,Vento,2017,101277.0,Diesel,Manual,1,2993.0,7,Chennai,Blue,Third Party,1246817
+C0064,Maruti,Baleno,2024,5000.0,Diesel,Automatic,2,998.0,7,Kolkata,Red,Third Party,1374716
+C0065,Renault,Kwid,2015,107068.0,Petrol,Manual,2,1998.0,5,Kolkata,Silver,Third Party,605203
+C0066,Honda,City,2018,109496.0,CNG,Manual,2,2755.0,5,Bengaluru,Black,Third Party,1057309
+C0067,Kia,Seltos,2021,19100.0,Diesel,Automatic,1,1497.0,5,Pune,White,Comprehensive,1640181
+C0068,Maruti,Baleno,2019,102260.0,Petrol,Manual,1,2993.0,5,Pune,White,Comprehensive,1028091
+C0069,Volkswagen,Vento,2018,50044.0,Diesel,Manual,1,1498.0,7,Hyderabad,Black,Comprehensive,1213543
+C0070,Toyota,Etios,2024,25627.0,Diesel,Manual,1,2393.0,5,Bengaluru,White,Third Party,1772720
+C0071,Maruti,Dzire,2016,100495.0,Petrol,Manual,4,2393.0,5,Chennai,Red,Third Party,538289
+C0072,Tata,Nexon,2015,141970.0,Diesel,Automatic,1,1998.0,5,Bengaluru,White,Expired,777758
+C0073,Honda,City,2014,109154.0,Petrol,Manual,1,1199.0,5,Ahmedabad,White,Comprehensive,816549
+C0074,Volkswagen,Taigun,2018,90553.0,Petrol,Manual,1,1199.0,5,Mumbai,Blue,Comprehensive,1086049
+C0075,Honda,Amaze,2014,138843.0,Diesel,Automatic,1,1497.0,5,Pune,Black,Comprehensive,719982
+C0076,Toyota,Fortuner,2022,48311.0,Petrol,Manual,2,1497.0,5,Delhi,White,Comprehensive,2167161
+C0077,Maruti,Swift,2024,26026.0,Petrol,Manual,1,1199.0,5,Chennai,Grey,Third Party,1150387
+C0078,Honda,WR-V,2019,78293.0,Diesel,Automatic,1,1998.0,7,Pune,Silver,Comprehensive,1450758
+C0079,Maruti,Baleno,2022,49890.0,Diesel,Manual,1,2393.0,5,Delhi,Black,Comprehensive,1281937
+C0080,Ford,Endeavour,2018,70488.0,Diesel,Automatic,2,998.0,5,Bengaluru,Blue,Comprehensive,1544482
+C0081,Ford,EcoSport,2021,53145.0,Petrol,Automatic,1,2179.0,5,Pune,Blue,Comprehensive,1306107
+C0082,Mahindra,Thar,2015,111347.0,Diesel,Manual,1,2755.0,5,Bengaluru,Black,Third Party,1141414
+C0083,Hyundai,i20,2014,145566.0,CNG,Manual,2,1998.0,5,Pune,Silver,Third Party,671035
+C0084,Ford,Figo,2016,81104.0,Petrol,Manual,1,2393.0,7,Hyderabad,Grey,Comprehensive,803066
+C0085,Ford,Aspire,2021,50393.0,Petrol,Automatic,1,1498.0,5,Jaipur,Blue,Third Party,1041272
+C0086,Toyota,Etios,2023,23523.0,Petrol,Manual,2,2393.0,5,Pune,Red,Comprehensive,1526802
+C0087,Ford,Aspire,2021,29901.0,Petrol,Manual,2,2755.0,5,Chennai,Blue,Comprehensive,1300203
+C0088,Renault,Kiger,2020,64078.0,Diesel,Manual,1,1498.0,5,Pune,Blue,Comprehensive,1145129
+C0089,Toyota,Fortuner,2017,92251.0,Petrol,Automatic,1,1498.0,7,Kolkata,Black,Comprehensive,1964874
+C0090,Mahindra,Thar,2017,106958.0,Petrol,Manual,1,1497.0,5,Bengaluru,White,Comprehensive,1248716
+C0091,Honda,Jazz,2021,10745.0,Petrol,Manual,2,1591.0,7,Kolkata,Blue,Expired,1176341
+C0092,Toyota,Yaris,2020,62700.0,Petrol,Manual,1,998.0,7,Kolkata,Grey,Comprehensive,1331109
+C0093,Maruti,Baleno,2018,99388.0,Diesel,Automatic,1,1197.0,5,Ahmedabad,Silver,Third Party,849760
+C0094,Maruti,Baleno,2020,94585.0,CNG,Manual,1,2993.0,7,Delhi,Black,Comprehensive,1196500
+C0095,Hyundai,Creta,2023,43835.0,CNG,Manual,1,2179.0,5,Hyderabad,Black,Comprehensive,1489714
+C0096,Maruti,Vitara Brezza,2014,123509.0,Petrol,Manual,1,2393.0,5,Hyderabad,White,Comprehensive,674265
+C0097,Maruti,Dzire,2023,28573.0,Diesel,Manual,1,2993.0,5,Hyderabad,White,Third Party,1428916
+C0098,Renault,Triber,2014,131708.0,Petrol,Manual,4,1591.0,7,Ahmedabad,Red,Comprehensive,503820
+C0099,Volkswagen,Virtus,2021,33182.0,Petrol,Automatic,2,1497.0,5,Delhi,Red,Comprehensive,1469997
+C0100,Mahindra,Bolero,2017,91359.0,Electric,Manual,1,2179.0,5,Kolkata,White,Comprehensive,1224515
+C0101,Tata,Harrier,2015,97005.0,Diesel,Manual,2,2993.0,5,Kochi,Silver,Expired,1008107
+C0102,Mahindra,XUV500,2014,133238.0,Petrol,Manual,3,2179.0,5,Chennai,Blue,Comprehensive,836874
+C0103,Hyundai,Creta,2017,124298.0,Diesel,Manual,1,2993.0,5,Pune,Grey,Third Party,1254761
+C0104,Hyundai,Grand i10,2018,73039.0,Petrol,Manual,1,1497.0,5,Bengaluru,Grey,Third Party,860269
+C0105,Volkswagen,Vento,2022,25486.0,CNG,Manual,2,1199.0,5,Ahmedabad,Black,Comprehensive,1299851
+C0106,Honda,Jazz,2024,18876.0,Petrol,Automatic,3,2993.0,5,Kolkata,Black,Comprehensive,1655412
+C0107,Ford,Aspire,2019,59993.0,Petrol,Manual,3,1498.0,5,Hyderabad,Silver,Expired,849799
+C0108,Toyota,Fortuner,2023,35574.0,Diesel,Manual,1,1591.0,7,Jaipur,Blue,Third Party,2423448
+C0109,Maruti,Wagon R,2024,13473.0,Petrol,Manual,1,2393.0,5,Delhi,Black,Comprehensive,1300573
+C0110,Toyota,Etios,2017,83783.0,CNG,Manual,1,1199.0,5,Mumbai,Red,Third Party,1017501
+C0111,Kia,Carens,2020,53372.0,Electric,Manual,1,1197.0,5,Mumbai,Grey,Expired,1645556
+C0112,Kia,Seltos,2024,19286.0,Petrol,Automatic,2,1197.0,5,Kolkata,Red,Comprehensive,1788475
+C0113,Mahindra,Bolero,2016,117808.0,Diesel,Automatic,4,1591.0,5,Bengaluru,White,Third Party,933728
+C0114,Toyota,Fortuner,2017,103053.0,Petrol,Manual,1,1591.0,7,Delhi,Red,Third Party,1952140
+C0115,Toyota,Fortuner,2016,98609.0,Petrol,Automatic,1,2393.0,7,Jaipur,White,Comprehensive,2026641
+C0116,Honda,City,2019,69055.0,Petrol,Automatic,1,998.0,5,Kolkata,Red,Comprehensive,1159493
+C0117,Maruti,Vitara Brezza,2016,98764.0,Diesel,Manual,1,2755.0,5,Pune,Black,Third Party,881249
+C0118,Mahindra,XUV300,2021,5000.0,Petrol,Manual,2,1591.0,5,Kolkata,White,Comprehensive,1441407
+C0119,Maruti,Vitara Brezza,2014,143827.0,Petrol,Manual,1,1498.0,5,Bengaluru,Blue,Expired,335052
+C0120,Tata,Nexon,2020,50961.0,Petrol,Automatic,1,1199.0,5,Hyderabad,Red,Third Party,1078511
+C0121,Mahindra,XUV500,2024,5000.0,Petrol,Manual,2,1998.0,7,Hyderabad,Grey,Comprehensive,1782813
+C0122,Hyundai,Verna,2015,130384.0,Diesel,Manual,1,1497.0,5,Pune,Blue,Comprehensive,814541
+C0123,Volkswagen,Virtus,2015,133135.0,Electric,Manual,1,1591.0,5,Mumbai,Black,Third Party,1189334
+C0124,Volkswagen,Polo,2018,71748.0,Petrol,Manual,3,1199.0,5,Hyderabad,Silver,Comprehensive,1009675
+C0125,Toyota,Fortuner,2024,5000.0,CNG,Automatic,1,1998.0,5,Kochi,White,Comprehensive,2436311
+C0126,Hyundai,Venue,2024,34730.0,Petrol,Automatic,1,2393.0,5,Kochi,Black,Expired,1643590
+C0127,Renault,Kiger,2024,5000.0,Petrol,Manual,4,1197.0,5,Ahmedabad,Silver,Comprehensive,1184618
+C0128,Kia,Seltos,2016,131433.0,CNG,Manual,1,1199.0,5,Mumbai,Silver,Comprehensive,1095942
+C0129,Volkswagen,Virtus,2022,6431.0,Petrol,Manual,1,1498.0,5,Hyderabad,Grey,Comprehensive,1572706
+C0130,Maruti,Baleno,2019,60319.0,Diesel,Manual,1,1197.0,5,Kolkata,Red,Comprehensive,854929
+C0131,Renault,Kiger,2015,125683.0,Petrol,Automatic,1,1998.0,7,Jaipur,Grey,Comprehensive,801240
+C0132,Renault,Triber,2024,7575.0,Diesel,Automatic,1,1998.0,5,Mumbai,White,Third Party,1414833
+C0133,Volkswagen,Virtus,2024,26335.0,Petrol,Manual,2,1498.0,5,Chennai,Grey,Expired,1462059
+C0134,Ford,Aspire,2023,5623.0,CNG,Manual,1,1199.0,7,Pune,Silver,Comprehensive,1111167
+C0135,Ford,Figo,2024,5000.0,Petrol,Manual,2,1498.0,7,Kochi,Black,Comprehensive,1418364
+C0136,Maruti,Swift,2024,5000.0,Diesel,Manual,2,1591.0,5,Kolkata,Grey,Comprehensive,1313055
+C0137,Renault,Triber,2024,9271.0,Petrol,Manual,1,1199.0,7,Bengaluru,Silver,Third Party,1454085
+C0138,Honda,City,2020,106293.0,Diesel,Manual,1,2179.0,5,Chennai,Grey,Expired,1449382
+C0139,Kia,Seltos,2016,119986.0,CNG,Manual,3,2179.0,7,Jaipur,White,Comprehensive,1357838
+C0140,Renault,Kwid,2021,36872.0,Diesel,Manual,1,1591.0,5,Bengaluru,Blue,Comprehensive,1038837
+C0141,Mahindra,Scorpio,2016,127415.0,CNG,Automatic,2,2993.0,7,Delhi,Blue,Expired,1326053
+C0142,Renault,Kiger,2017,95190.0,CNG,Automatic,2,1998.0,5,Mumbai,Silver,Comprehensive,776405
+C0143,Hyundai,Creta,2015,95441.0,Diesel,Manual,3,998.0,5,Kochi,White,Comprehensive,673373
+C0144,Honda,WR-V,2023,19715.0,Electric,Automatic,1,1199.0,5,Hyderabad,White,Comprehensive,1578465
+C0145,Hyundai,Verna,2018,92231.0,Diesel,Manual,2,2993.0,5,Delhi,Blue,Expired,1217008
+C0146,Hyundai,i20,2019,86918.0,Electric,Manual,2,1199.0,5,Mumbai,Black,Comprehensive,1095709
+C0147,Hyundai,Grand i10,2015,131580.0,Diesel,Manual,3,1498.0,5,Ahmedabad,White,Comprehensive,578844
+C0148,Maruti,Dzire,2024,5000.0,Petrol,Manual,1,1498.0,5,Kolkata,Grey,Comprehensive,1234648
+C0149,Kia,Seltos,2020,84795.0,CNG,Manual,1,2993.0,7,Kolkata,Grey,Third Party,1797012
+C0150,Tata,Tiago,2016,105133.0,Petrol,Manual,2,2755.0,7,Kolkata,Silver,Comprehensive,878953
+C0151,Toyota,Etios,2014,102015.0,Petrol,Automatic,1,2393.0,5,Hyderabad,Grey,Third Party,1017443
+C0152,Ford,Endeavour,2020,31271.0,Petrol,Manual,1,1197.0,5,Bengaluru,Blue,Third Party,1678222
+C0153,Volkswagen,Polo,2022,9785.0,Petrol,Manual,1,1497.0,5,Kolkata,Grey,Third Party,1275402
+C0154,Tata,Altroz,2016,82798.0,Diesel,Manual,2,2393.0,5,Hyderabad,Silver,Comprehensive,853179
+C0155,Toyota,Fortuner,2021,45223.0,Petrol,Manual,1,1199.0,5,Kolkata,Black,Comprehensive,1987522
+C0156,Mahindra,XUV300,2014,150116.0,Diesel,Automatic,4,2993.0,5,Mumbai,Blue,Third Party,923936
+C0157,Toyota,Etios,2022,31433.0,Petrol,Manual,1,998.0,5,Kolkata,Grey,Third Party,1514181
+C0158,Ford,EcoSport,2016,73127.0,Electric,Automatic,3,2393.0,5,Bengaluru,Silver,Comprehensive,1161714
+C0159,Kia,Carens,2018,66041.0,Petrol,Manual,1,1497.0,5,Delhi,Blue,Comprehensive,1194258
+C0160,Maruti,Wagon R,2021,59887.0,Diesel,Manual,3,1199.0,5,Chennai,Red,Third Party,768895
+C0161,Renault,Duster,2017,94917.0,Petrol,Manual,1,2993.0,5,Delhi,Red,Comprehensive,930521
+C0162,Volkswagen,Polo,2021,64518.0,Electric,Manual,1,998.0,5,Kolkata,Red,Comprehensive,1302805
+C0163,Toyota,Glanza,2015,131969.0,Petrol,Manual,1,1498.0,7,Pune,Grey,Third Party,997563
+C0164,Hyundai,Verna,2021,50294.0,Petrol,Automatic,2,1498.0,5,Mumbai,Silver,Comprehensive,1211618
+C0165,Tata,Altroz,2016,107014.0,CNG,Automatic,1,1497.0,5,Bengaluru,Black,Comprehensive,752499
+C0166,Mahindra,Bolero,2024,5000.0,Petrol,Manual,1,1199.0,5,Mumbai,Red,Comprehensive,1500637
+C0167,Kia,Carens,2016,132128.0,Petrol,Automatic,1,2755.0,5,Pune,Red,Comprehensive,1327052
+C0168,Hyundai,Venue,2015,132528.0,CNG,Manual,2,2393.0,7,Bengaluru,Red,Comprehensive,916898
+C0169,Renault,Kwid,2017,89854.0,Diesel,Manual,2,1591.0,7,Kolkata,Black,Third Party,722521
+C0170,Honda,Jazz,2022,41492.0,Electric,Automatic,3,1199.0,7,Hyderabad,Silver,Comprehensive,1583052
+C0171,Maruti,Vitara Brezza,2016,107531.0,CNG,Manual,2,1197.0,5,Delhi,Blue,Third Party,614230
+C0172,Honda,WR-V,2016,121293.0,Diesel,Automatic,1,1497.0,5,Jaipur,Red,Comprehensive,1040000
+C0173,Tata,Nexon,2018,70810.0,Petrol,Manual,3,1497.0,5,Hyderabad,Red,Comprehensive,748381
+C0174,Honda,Jazz,2022,12016.0,Petrol,Automatic,1,2755.0,5,Mumbai,White,Expired,1474710
+C0175,Hyundai,Grand i10,2018,84762.0,Petrol,Manual,2,2393.0,5,Kochi,Blue,Third Party,736760
+C0176,Renault,Triber,2015,96771.0,CNG,Automatic,1,1197.0,5,Chennai,Black,Comprehensive,586503
+C0177,Toyota,Innova,2014,146792.0,Petrol,Automatic,2,2993.0,5,Kochi,Grey,Third Party,1253345
+C0178,Tata,Altroz,2024,5000.0,Petrol,Manual,1,2179.0,7,Kolkata,Black,Comprehensive,1601760
+C0179,Ford,Aspire,2021,58082.0,CNG,Manual,2,1497.0,5,Kolkata,Black,Third Party,942614
+C0180,Hyundai,Creta,2024,31285.0,Diesel,Manual,2,1998.0,5,Jaipur,White,Third Party,1548237
+C0181,Mahindra,XUV300,2020,38566.0,Petrol,Manual,1,998.0,5,Ahmedabad,Red,Comprehensive,1225194
+C0182,Tata,Altroz,2014,103183.0,Petrol,Manual,3,2393.0,5,Jaipur,Grey,Comprehensive,703552
+C0183,Hyundai,i20,2018,36645.0,CNG,Manual,1,1591.0,7,Pune,Silver,Comprehensive,1124786
+C0184,Hyundai,i20,2020,62429.0,Diesel,Automatic,1,998.0,5,Jaipur,White,Expired,1109170
+C0185,Tata,Tiago,2016,98020.0,Petrol,Automatic,1,1497.0,7,Jaipur,Grey,Third Party,839364
+C0186,Toyota,Yaris,2022,39428.0,Petrol,Manual,2,1591.0,7,Kochi,Blue,Comprehensive,1476583
+C0187,Ford,Aspire,2018,102491.0,Petrol,Automatic,1,2993.0,5,Chennai,Blue,Expired,1026575
+C0188,Mahindra,XUV300,2024,5000.0,Petrol,Manual,1,1199.0,5,Mumbai,Silver,Third Party,1489585
+C0189,Tata,Harrier,2019,84821.0,CNG,Manual,1,1197.0,5,Jaipur,Grey,Comprehensive,1214085
+C0190,Hyundai,i20,2016,98111.0,Petrol,Manual,2,2179.0,5,Kochi,Blue,Comprehensive,722849
+C0191,Honda,Amaze,2021,71425.0,Diesel,Automatic,1,1498.0,5,Pune,Blue,Comprehensive,1327933
+C0192,Volkswagen,Polo,2022,23408.0,Diesel,Automatic,1,2179.0,5,Jaipur,Silver,Comprehensive,1418865
+C0193,Ford,EcoSport,2015,106777.0,Petrol,Manual,2,1497.0,5,Delhi,Red,Third Party,662132
+C0194,Maruti,Swift,2023,5000.0,Petrol,Manual,1,1591.0,5,Bengaluru,Silver,Comprehensive,1100247
+C0195,Mahindra,Thar,2018,91352.0,Petrol,Automatic,3,1199.0,5,Ahmedabad,Red,Expired,1247129
+C0196,Honda,WR-V,2016,113433.0,Diesel,Manual,2,1998.0,5,Delhi,Grey,Comprehensive,809009
+C0197,Ford,EcoSport,2021,11412.0,Petrol,Manual,1,2393.0,7,Bengaluru,Red,Comprehensive,1416644
+C0198,Toyota,Fortuner,2022,18962.0,Diesel,Manual,2,1591.0,5,Bengaluru,Blue,Comprehensive,2202008
+C0199,Tata,Safari,2015,92897.0,Electric,Manual,1,1199.0,5,Ahmedabad,Silver,Comprehensive,1262111
+C0200,Ford,Aspire,2015,83024.0,Diesel,Manual,2,1497.0,5,Ahmedabad,Blue,Third Party,586069
+C0201,Toyota,Yaris,2021,41123.0,Petrol,Automatic,1,1591.0,5,Mumbai,White,Comprehensive,1580403
+C0202,Mahindra,Bolero,2016,105384.0,Diesel,Manual,2,1497.0,5,Mumbai,White,Comprehensive,935211
+C0203,Toyota,Fortuner,2022,35058.0,Petrol,Manual,1,2393.0,5,Kolkata,Silver,Comprehensive,2228427
+C0204,Maruti,Wagon R,2023,27169.0,Diesel,Automatic,1,2993.0,7,Pune,Grey,Third Party,1596835
+C0205,Ford,EcoSport,2018,88312.0,Petrol,Manual,4,1498.0,5,Kochi,Silver,Third Party,793870
+C0206,Maruti,Dzire,2015,126858.0,Petrol,Manual,3,2993.0,5,Kolkata,Grey,Comprehensive,646093
+C0207,Maruti,Vitara Brezza,2022,20280.0,Petrol,Manual,2,1591.0,5,Bengaluru,Black,Third Party,1135949
+C0208,Toyota,Etios,2024,5000.0,Petrol,Manual,1,2993.0,5,Kolkata,Red,Comprehensive,1738819
+C0209,Toyota,Fortuner,2019,80880.0,Diesel,Manual,1,1497.0,7,Kochi,Grey,Comprehensive,2098274
+C0210,Tata,Harrier,2022,12455.0,Petrol,Manual,2,998.0,5,Chennai,Red,Expired,1242772
+C0211,Hyundai,Grand i10,2018,54453.0,Petrol,Manual,1,2179.0,5,Kolkata,Black,Comprehensive,956757
+C0212,Maruti,Vitara Brezza,2020,51341.0,Petrol,Manual,1,1199.0,5,Hyderabad,Black,Comprehensive,972596
+C0213,Tata,Harrier,2024,5000.0,Petrol,Manual,1,1497.0,5,Pune,Blue,Third Party,1597696
+C0214,Ford,Figo,2024,19920.0,Diesel,Automatic,3,1497.0,5,Bengaluru,Red,Comprehensive,1343335
+C0215,Maruti,Vitara Brezza,2019,96782.0,Diesel,Manual,2,1197.0,5,Delhi,Red,Third Party,943398
+C0216,Mahindra,Thar,2017,95804.0,Petrol,Manual,1,1197.0,5,Jaipur,Silver,Comprehensive,1182540
+C0217,Hyundai,Creta,2023,36905.0,Petrol,Manual,1,1591.0,5,Hyderabad,Grey,Comprehensive,1766583
+C0218,Kia,Sonet,2020,76732.0,Petrol,Automatic,2,1498.0,7,Pune,Blue,Comprehensive,1452698
+C0219,Mahindra,XUV500,2016,126164.0,Petrol,Automatic,1,2755.0,5,Hyderabad,Red,Comprehensive,1184237
+C0220,Hyundai,Venue,2014,128792.0,Petrol,Manual,1,998.0,7,Chennai,Blue,Comprehensive,713263
+C0221,Hyundai,Verna,2017,78610.0,Petrol,Manual,4,2179.0,5,Hyderabad,Blue,Comprehensive,890403
+C0222,Renault,Kwid,2023,5000.0,Electric,Manual,1,1197.0,5,Kolkata,Silver,Comprehensive,1324667
+C0223,Volkswagen,Vento,2019,78139.0,Petrol,Manual,1,2179.0,5,Mumbai,White,Expired,1033487
+C0224,Tata,Safari,2019,60568.0,Petrol,Manual,1,1197.0,5,Mumbai,Silver,Comprehensive,1260232
+C0225,Hyundai,i20,2021,46253.0,Petrol,Manual,1,1199.0,5,Kochi,Silver,Comprehensive,1195944
+C0226,Honda,Jazz,2015,122877.0,Petrol,Manual,2,2993.0,7,Ahmedabad,Silver,Comprehensive,861534
+C0227,Maruti,Swift,2021,44234.0,Diesel,Automatic,2,2393.0,5,Mumbai,Red,Third Party,1094813
+C0228,Maruti,Swift,2015,125427.0,CNG,Manual,1,1998.0,5,Ahmedabad,Silver,Third Party,480492
+C0229,Kia,Seltos,2019,67376.0,Petrol,Manual,4,2755.0,5,Pune,Grey,Comprehensive,1475116
+C0230,Kia,Seltos,2014,113096.0,Petrol,Automatic,3,2393.0,5,Chennai,Silver,Comprehensive,1214295
+C0231,Maruti,Baleno,2022,38940.0,Diesel,Automatic,4,1591.0,5,Hyderabad,Silver,Comprehensive,1152183
+C0232,Hyundai,Creta,2017,88143.0,Petrol,Automatic,1,1197.0,5,Kochi,Silver,Comprehensive,1075521
+C0233,Toyota,Yaris,2017,125951.0,Diesel,Manual,2,1199.0,5,Hyderabad,Red,Comprehensive,1088842
+C0234,Maruti,Wagon R,2016,144493.0,Diesel,Manual,1,2755.0,5,Pune,Red,Comprehensive,780154
+C0235,Maruti,Swift,2024,5000.0,Petrol,Manual,1,2755.0,7,Kolkata,Black,Comprehensive,1468858
+C0236,Honda,WR-V,2023,23240.0,Electric,Manual,2,1591.0,5,Chennai,Silver,Third Party,1546441
+C0237,Renault,Triber,2022,41789.0,Petrol,Manual,1,1199.0,5,Delhi,Black,Comprehensive,960902
+C0238,Maruti,Swift,2022,60958.0,Petrol,Automatic,2,2755.0,5,Mumbai,White,Comprehensive,1183548
+C0239,Honda,WR-V,2015,130021.0,Diesel,Manual,2,2993.0,5,Ahmedabad,Silver,Comprehensive,992398
+C0240,Hyundai,Venue,2024,5000.0,Petrol,Manual,2,1199.0,7,Delhi,Red,Third Party,1366093
+C0241,Honda,City,2019,74831.0,Petrol,Automatic,2,1998.0,7,Mumbai,Silver,Comprehensive,1478278
+C0242,Toyota,Innova,2018,73519.0,Petrol,Automatic,1,1199.0,5,Kolkata,Red,Comprehensive,1426277
+C0243,Renault,Triber,2015,102417.0,Diesel,Automatic,2,998.0,5,Ahmedabad,Grey,Comprehensive,706442
+C0244,Hyundai,Venue,2014,138533.0,Petrol,Automatic,4,1998.0,5,Kochi,Black,Comprehensive,617761
+C0245,Volkswagen,Taigun,2014,123200.0,Diesel,Manual,2,998.0,5,Bengaluru,Grey,Third Party,716793
+C0246,Ford,EcoSport,2015,108617.0,CNG,Manual,1,1497.0,5,Bengaluru,Black,Third Party,741878
+C0247,Toyota,Etios,2024,5000.0,Petrol,Automatic,2,1998.0,5,Chennai,Silver,Comprehensive,1725570
+C0248,Toyota,Innova,2015,104616.0,Petrol,Manual,1,1498.0,5,Kochi,Red,Comprehensive,1158681
+C0249,Volkswagen,Virtus,2020,27332.0,Electric,Manual,1,1197.0,7,Jaipur,Blue,Comprehensive,1519052
+C0250,Kia,Seltos,2022,81365.0,Petrol,Automatic,3,2755.0,7,Kolkata,Black,Comprehensive,1852203
+C0251,Kia,Carens,2014,128112.0,Petrol,Manual,1,1591.0,5,Kolkata,Black,Third Party,933541
+C0252,Maruti,Baleno,2024,5000.0,Petrol,Manual,1,1998.0,5,Chennai,Blue,Comprehensive,1355313
+C0253,Maruti,Vitara Brezza,2024,12156.0,Diesel,Manual,2,2755.0,5,Kochi,Blue,Comprehensive,1495754
+C0254,Hyundai,Creta,2017,89942.0,Petrol,Manual,1,998.0,5,Bengaluru,Grey,Comprehensive,1014322
+C0255,Tata,Nexon,2020,43784.0,Petrol,Manual,2,1497.0,7,Hyderabad,Black,Third Party,1130238
+C0256,Honda,Amaze,2016,112220.0,Diesel,Manual,2,1591.0,5,Delhi,Grey,Comprehensive,787772
+C0257,Ford,EcoSport,2019,83487.0,Petrol,Manual,2,2179.0,7,Hyderabad,Grey,Comprehensive,1071479
+C0258,Volkswagen,Virtus,2024,21283.0,Petrol,Automatic,1,1197.0,5,Hyderabad,White,Comprehensive,1749517
+C0259,Honda,City,2016,113259.0,Diesel,Automatic,2,1498.0,5,Ahmedabad,Black,Third Party,879087
+C0260,Toyota,Etios,2024,20144.0,Petrol,Manual,1,2993.0,5,Mumbai,White,Comprehensive,1917335
+C0261,Volkswagen,Polo,2022,5000.0,CNG,Automatic,1,2179.0,5,Kochi,Black,Comprehensive,1540301
+C0262,Toyota,Yaris,2020,63961.0,CNG,Automatic,1,2755.0,7,Jaipur,Grey,Comprehensive,1675613
+C0263,Toyota,Fortuner,2014,71692.0,Petrol,Manual,3,1497.0,5,Delhi,Grey,Comprehensive,1384469
+C0264,Kia,Seltos,2016,85660.0,Diesel,Automatic,1,2755.0,7,Chennai,Black,Third Party,1643751
+C0265,Renault,Kiger,2014,111501.0,Electric,Manual,2,2179.0,5,Kochi,Silver,Third Party,796901
+C0266,Tata,Altroz,2019,59211.0,Diesel,Manual,1,1197.0,5,Bengaluru,Silver,Third Party,957774
+C0267,Kia,Seltos,2022,5000.0,Diesel,Manual,1,1591.0,5,Hyderabad,Grey,Comprehensive,1874484
+C0268,Ford,Aspire,2021,33677.0,Diesel,Automatic,1,2393.0,5,Delhi,Black,Third Party,1398734
+C0269,Ford,Figo,2015,116622.0,Electric,Manual,3,1199.0,7,Mumbai,Blue,Comprehensive,763247
+C0270,Mahindra,XUV500,2024,23457.0,Diesel,Manual,1,1498.0,7,Pune,Red,Comprehensive,1772617
+C0271,Toyota,Fortuner,2017,97241.0,Electric,Manual,1,1197.0,5,Kochi,Blue,Comprehensive,1955466
+C0272,Mahindra,Thar,2018,63390.0,Petrol,Automatic,1,998.0,5,Mumbai,Black,Third Party,1289395
+C0273,Toyota,Innova,2015,110115.0,Petrol,Manual,1,1498.0,5,Pune,Black,Comprehensive,1152552
+C0274,Maruti,Dzire,2016,112655.0,Petrol,Automatic,1,2179.0,5,Ahmedabad,Silver,Third Party,645366
+C0275,Ford,EcoSport,2022,30184.0,Petrol,Automatic,2,1591.0,5,Pune,Blue,Third Party,1352152
+C0276,Mahindra,XUV300,2019,71621.0,Diesel,Automatic,1,2179.0,5,Kochi,White,Expired,1417822
+C0277,Maruti,Wagon R,2014,74992.0,Petrol,Automatic,3,2755.0,5,Chennai,Red,Comprehensive,575168
+C0278,Mahindra,Bolero,2015,117914.0,Petrol,Manual,2,1199.0,5,Hyderabad,Black,Third Party,670229
+C0279,Ford,Figo,2020,54448.0,Diesel,Manual,2,2993.0,7,Ahmedabad,Blue,Comprehensive,1219878
+C0280,Volkswagen,Vento,2019,64767.0,Electric,Manual,1,2179.0,5,Delhi,White,Comprehensive,1428266
+C0281,Mahindra,XUV300,2022,26042.0,Petrol,Automatic,2,1199.0,5,Mumbai,White,Comprehensive,1456333
+C0282,Ford,Figo,2016,114997.0,Petrol,Manual,1,1498.0,7,Jaipur,Blue,Third Party,735306
+C0283,Honda,City,2023,5000.0,Petrol,Manual,1,2393.0,7,Kolkata,Red,Comprehensive,1655765
+C0284,Tata,Harrier,2019,79006.0,Diesel,Manual,1,1498.0,5,Kolkata,Black,Comprehensive,1343191
+C0285,Mahindra,XUV500,2014,126694.0,Petrol,Manual,2,2393.0,5,Pune,Red,Expired,892902
+C0286,Renault,Duster,2016,93188.0,Petrol,Manual,1,2393.0,5,Mumbai,Silver,Comprehensive,946821
+C0287,Kia,Sonet,2017,93956.0,Diesel,Manual,1,2993.0,5,Jaipur,White,Comprehensive,1332422
+C0288,Hyundai,Verna,2017,92129.0,Petrol,Manual,1,1591.0,5,Mumbai,Grey,Comprehensive,919401
+C0289,Tata,Safari,2018,80665.0,Petrol,Automatic,2,1197.0,5,Pune,Blue,Comprehensive,1259619
+C0290,Tata,Harrier,2023,31878.0,Petrol,Automatic,1,1998.0,7,Mumbai,Silver,Comprehensive,1809344
+C0291,Mahindra,XUV500,2018,68537.0,Diesel,Manual,1,2993.0,5,Bengaluru,Silver,Comprehensive,1543352
+C0292,Honda,WR-V,2023,8205.0,Electric,Manual,1,998.0,5,Delhi,White,Comprehensive,1566460
+C0293,Tata,Altroz,2019,49450.0,Diesel,Manual,1,1498.0,7,Jaipur,Red,Comprehensive,1063854
+C0294,Ford,EcoSport,2024,13605.0,Electric,Manual,2,1199.0,5,Delhi,Black,Comprehensive,1541331
+C0295,Mahindra,XUV300,2014,126465.0,Petrol,Automatic,1,1591.0,7,Kolkata,Grey,Comprehensive,1171130
+C0296,Mahindra,XUV500,2017,80511.0,Diesel,Automatic,1,1199.0,5,Bengaluru,Black,Comprehensive,1288847
+C0297,Volkswagen,Vento,2015,133382.0,Petrol,Manual,1,1998.0,7,Jaipur,Grey,Comprehensive,906722
+C0298,Kia,Carens,2016,103479.0,Diesel,Manual,1,2179.0,5,Bengaluru,White,Comprehensive,1311769
+C0299,Renault,Triber,2024,5000.0,Diesel,Automatic,1,1197.0,5,Ahmedabad,Grey,Comprehensive,1407633
+C0300,Hyundai,Creta,2023,44207.0,Diesel,Manual,1,2993.0,5,Kochi,White,Third Party,1634524
+C0301,Mahindra,XUV500,2017,92440.0,Petrol,Automatic,2,998.0,5,Pune,Black,Third Party,1149456
+C0302,Honda,City,2020,52197.0,Diesel,Manual,1,1497.0,5,Mumbai,White,Comprehensive,1426424
+C0303,Maruti,Wagon R,2021,51479.0,Petrol,Manual,1,1498.0,7,Bengaluru,Red,Comprehensive,993448
+C0304,Toyota,Innova,2020,56946.0,CNG,Automatic,1,1998.0,5,Chennai,Blue,Comprehensive,1686144
+C0305,Kia,Carens,2022,32884.0,Petrol,Manual,2,1199.0,5,Ahmedabad,Silver,Comprehensive,1514748
+C0306,Volkswagen,Polo,2019,93906.0,Petrol,Manual,3,1199.0,5,Kochi,Silver,Comprehensive,822234
+C0307,Hyundai,Grand i10,2014,120485.0,Electric,Automatic,2,1498.0,7,Kochi,Blue,Comprehensive,697912
+C0308,Maruti,Wagon R,2022,47813.0,Petrol,Manual,2,1199.0,5,Pune,Black,Comprehensive,872882
+C0309,Ford,Figo,2022,5000.0,Electric,Manual,1,2993.0,5,Hyderabad,Silver,Comprehensive,1468004
+C0310,Renault,Kiger,2016,88362.0,Diesel,Manual,2,1199.0,5,Kolkata,Grey,Comprehensive,748906
+C0311,Honda,Amaze,2021,30972.0,Diesel,Manual,2,1199.0,5,Kolkata,Red,Comprehensive,1173983
+C0312,Kia,Seltos,2024,27501.0,Petrol,Manual,1,1497.0,5,Chennai,White,Third Party,1704022
+C0313,Hyundai,Verna,2016,91406.0,Petrol,Automatic,2,2755.0,7,Pune,White,Third Party,1060751
+C0314,Maruti,Baleno,2020,94880.0,Petrol,Automatic,2,1197.0,5,Kochi,Red,Third Party,833811
+C0315,Toyota,Innova,2015,92341.0,Petrol,Manual,1,1998.0,5,Ahmedabad,White,Third Party,1276624
+C0316,Ford,Aspire,2015,117773.0,Diesel,Manual,2,2993.0,5,Kochi,Black,Comprehensive,710025
+C0317,Honda,WR-V,2021,82238.0,Electric,Manual,1,2179.0,7,Kolkata,Silver,Comprehensive,1524809
+C0318,Kia,Carens,2022,11216.0,Petrol,Manual,1,1199.0,5,Bengaluru,Blue,Comprehensive,1619654
+C0319,Honda,City,2020,42665.0,Diesel,Manual,1,998.0,5,Pune,White,Comprehensive,1286875
+C0320,Mahindra,XUV300,2017,78929.0,Diesel,Automatic,1,2993.0,5,Chennai,White,Comprehensive,1310271
+C0321,Kia,Sonet,2015,124673.0,Diesel,Manual,2,2179.0,5,Delhi,White,Comprehensive,1022250
+C0322,Volkswagen,Vento,2019,66949.0,Diesel,Manual,2,2393.0,5,Mumbai,Black,Comprehensive,1180633
+C0323,Hyundai,Verna,2016,98757.0,Petrol,Manual,1,1197.0,7,Chennai,Black,Comprehensive,808153
+C0324,Kia,Carens,2024,5000.0,Petrol,Manual,1,1998.0,5,Chennai,Red,Third Party,1834502
+C0325,Hyundai,Venue,2019,72188.0,Petrol,Manual,2,1998.0,5,Ahmedabad,Black,Comprehensive,1131599
+C0326,Maruti,Swift,2015,101981.0,Petrol,Manual,1,2179.0,5,Jaipur,Red,Expired,581674
+C0327,Renault,Kiger,2017,88283.0,Diesel,Automatic,2,1998.0,5,Mumbai,Grey,Comprehensive,986117
+C0328,Kia,Sonet,2019,74768.0,Petrol,Manual,2,998.0,5,Bengaluru,Silver,Comprehensive,1229880
+C0329,Tata,Harrier,2020,79248.0,Petrol,Manual,3,2179.0,5,Jaipur,Silver,Comprehensive,1286925
+C0330,Hyundai,Venue,2019,67870.0,Electric,Automatic,1,1497.0,5,Chennai,White,Comprehensive,1266695
+C0331,Hyundai,Venue,2022,44324.0,Diesel,Manual,1,2993.0,5,Ahmedabad,White,Comprehensive,1555057
+C0332,Toyota,Innova,2024,17565.0,Diesel,Manual,2,1498.0,5,Kochi,Blue,Comprehensive,1783224
+C0333,Maruti,Vitara Brezza,2019,75156.0,Petrol,Manual,1,1497.0,5,Pune,Blue,Comprehensive,939694
+C0334,Hyundai,Creta,2022,41612.0,Petrol,Manual,2,2755.0,7,Bengaluru,Grey,Third Party,1546210
+C0335,Volkswagen,Polo,2019,48624.0,Petrol,Manual,1,1197.0,5,Jaipur,Silver,Third Party,986506
+C0336,Volkswagen,Vento,2015,133163.0,Diesel,Manual,1,1497.0,5,Hyderabad,Grey,Comprehensive,789343
+C0337,Maruti,Vitara Brezza,2019,80166.0,Petrol,Manual,1,998.0,5,Delhi,Blue,Comprehensive,913631
+C0338,Maruti,Baleno,2015,124287.0,Diesel,Manual,2,2755.0,5,Jaipur,Blue,Comprehensive,706348
+C0339,Volkswagen,Polo,2018,96036.0,Petrol,Automatic,3,2179.0,5,Kolkata,White,Third Party,1021797
+C0340,Volkswagen,Polo,2019,74110.0,CNG,Automatic,2,2755.0,5,Hyderabad,Black,Comprehensive,1112811
+C0341,Ford,Figo,2024,6435.0,Petrol,Manual,1,1197.0,5,Kochi,Red,Comprehensive,1345930
+C0342,Honda,WR-V,2019,64817.0,Petrol,Manual,1,1497.0,5,Ahmedabad,Blue,Third Party,1113769
+C0343,Ford,Figo,2015,66331.0,Petrol,Manual,1,1998.0,5,Mumbai,Black,Comprehensive,531630
+C0344,Toyota,Fortuner,2022,43242.0,Petrol,Automatic,1,1199.0,5,Delhi,Red,Comprehensive,2144293
+C0345,Maruti,Wagon R,2022,34350.0,Petrol,Automatic,2,1998.0,7,Bengaluru,Blue,Comprehensive,1196375
+C0346,Honda,Amaze,2019,67677.0,Petrol,Automatic,2,2393.0,5,Hyderabad,Black,Comprehensive,1077102
+C0347,Volkswagen,Vento,2019,79508.0,Petrol,Manual,1,1498.0,7,Mumbai,Blue,Expired,1186946
+C0348,Honda,Amaze,2017,64717.0,Diesel,Automatic,2,2179.0,5,Hyderabad,Red,Comprehensive,1094433
+C0349,Renault,Kiger,2019,71329.0,Diesel,Automatic,2,1998.0,5,Mumbai,Blue,Comprehensive,1187577
+C0350,Toyota,Innova,2020,76657.0,Diesel,Manual,2,2179.0,5,Mumbai,Black,Expired,1659837
+C0351,Hyundai,Venue,2016,97363.0,Diesel,Manual,1,2993.0,5,Ahmedabad,Red,Comprehensive,1212318
+C0352,Volkswagen,Polo,2020,58651.0,Petrol,Manual,1,1498.0,7,Jaipur,Silver,Comprehensive,1199857
+C0353,Maruti,Dzire,2014,161435.0,Diesel,Manual,2,1197.0,5,Chennai,Black,Third Party,423183
+C0354,Mahindra,Thar,2018,56829.0,Petrol,Manual,4,1199.0,5,Chennai,Blue,Third Party,1194392
+C0355,Honda,Amaze,2015,134719.0,Diesel,Manual,3,1591.0,5,Mumbai,Grey,Third Party,672188
+C0356,Maruti,Vitara Brezza,2023,40545.0,Diesel,Automatic,1,1199.0,7,Chennai,Black,Third Party,1356831
+C0357,Honda,Amaze,2023,17923.0,Petrol,Automatic,1,1498.0,5,Bengaluru,White,Third Party,1462803
+C0358,Kia,Sonet,2020,68945.0,Diesel,Manual,1,2179.0,5,Hyderabad,Black,Third Party,1394812
+C0359,Honda,WR-V,2019,57738.0,Electric,Automatic,3,998.0,7,Chennai,Silver,Comprehensive,1264455
+C0360,Maruti,Dzire,2024,5000.0,Petrol,Manual,1,1199.0,5,Chennai,Black,Third Party,1102096
+C0361,Mahindra,XUV300,2014,154601.0,Diesel,Manual,1,2755.0,5,Chennai,Blue,Comprehensive,971038
+C0362,Ford,Endeavour,2015,118186.0,Diesel,Automatic,2,2755.0,5,Bengaluru,Black,Comprehensive,1572868
+C0363,Mahindra,Bolero,2022,21131.0,Petrol,Automatic,1,1498.0,7,Pune,Grey,Comprehensive,1552093
+C0364,Hyundai,Venue,2021,58919.0,Diesel,Manual,1,1197.0,5,Mumbai,Blue,Comprehensive,1163510
+C0365,Renault,Duster,2019,82062.0,Petrol,Manual,1,1199.0,7,Pune,White,Comprehensive,1046585
+C0366,Tata,Safari,2016,79424.0,Petrol,Manual,1,2179.0,5,Bengaluru,Grey,Comprehensive,1083605
+C0367,Ford,Endeavour,2014,116653.0,CNG,Manual,1,1497.0,5,Ahmedabad,White,Third Party,1147698
+C0368,Renault,Duster,2022,59629.0,Petrol,Manual,3,1591.0,5,Hyderabad,Silver,Comprehensive,1025241
+C0369,Kia,Seltos,2022,33799.0,Petrol,Manual,1,1591.0,5,Kochi,Silver,Third Party,1531623
+C0370,Tata,Altroz,2024,5000.0,Petrol,Manual,2,2179.0,5,Ahmedabad,Red,Third Party,1366578
+C0371,Renault,Kiger,2020,40830.0,Diesel,Automatic,2,2393.0,7,Pune,Silver,Comprehensive,1314061
+C0372,Kia,Carens,2015,139054.0,Diesel,Automatic,1,1498.0,5,Bengaluru,Red,Expired,1107038
+C0373,Tata,Altroz,2021,38925.0,Electric,Manual,2,1998.0,7,Kolkata,Silver,Comprehensive,1425510
+C0374,Maruti,Vitara Brezza,2022,68977.0,Diesel,Manual,3,1591.0,5,Pune,Black,Comprehensive,1090621
+C0375,Ford,Endeavour,2015,95189.0,Petrol,Manual,1,2393.0,7,Chennai,White,Expired,1354226
+C0376,Tata,Nexon,2017,102995.0,Diesel,Manual,1,1199.0,5,Chennai,Grey,Expired,762174
+C0377,Tata,Tiago,2021,53694.0,Petrol,Automatic,1,2393.0,5,Bengaluru,Blue,Comprehensive,1293793
+C0378,Honda,WR-V,2018,77518.0,CNG,Automatic,1,1199.0,5,Delhi,Red,Comprehensive,1078687
+C0379,Maruti,Swift,2023,33745.0,Diesel,Manual,2,1197.0,5,Kochi,Black,Comprehensive,1054016
+C0380,Maruti,Baleno,2019,77008.0,Petrol,Manual,2,1197.0,7,Chennai,Red,Comprehensive,848530
+C0381,Volkswagen,Taigun,2016,114882.0,Petrol,Manual,1,998.0,5,Ahmedabad,Blue,Third Party,902260
+C0382,Hyundai,Verna,2020,85300.0,Petrol,Manual,1,998.0,7,Delhi,Grey,Comprehensive,1283645
+C0383,Ford,Endeavour,2020,73699.0,Petrol,Automatic,1,1591.0,7,Mumbai,Black,Third Party,1761383
+C0384,Mahindra,XUV300,2014,123893.0,Diesel,Automatic,1,1998.0,5,Pune,Silver,Comprehensive,1055653
+C0385,Volkswagen,Vento,2018,97144.0,Diesel,Manual,2,1998.0,5,Kochi,Silver,Comprehensive,1108540
+C0386,Maruti,Baleno,2016,87184.0,Diesel,Manual,2,2993.0,5,Bengaluru,Silver,Comprehensive,941757
+C0387,Volkswagen,Polo,2020,51570.0,Petrol,Automatic,1,2993.0,5,Hyderabad,Red,Third Party,1426797
+C0388,Volkswagen,Vento,2017,103161.0,Electric,Automatic,3,2993.0,5,Pune,White,Third Party,1241182
+C0389,Ford,Figo,2023,5000.0,Petrol,Manual,1,2993.0,5,Mumbai,White,Third Party,1334164
+C0390,Honda,Jazz,2015,71692.0,Diesel,Automatic,1,1498.0,7,Bengaluru,Grey,Comprehensive,1021363
+C0391,Honda,Amaze,2020,51577.0,Petrol,Manual,2,1498.0,5,Mumbai,Black,Third Party,1204770
+C0392,Honda,WR-V,2014,152259.0,Petrol,Automatic,1,1199.0,7,Delhi,Grey,Comprehensive,763066
+C0393,Ford,EcoSport,2020,59047.0,Petrol,Manual,1,1591.0,5,Hyderabad,White,Comprehensive,1034785
+C0394,Toyota,Glanza,2023,24647.0,Petrol,Manual,3,1197.0,5,Bengaluru,Silver,Expired,1466713
+C0395,Ford,Figo,2015,84116.0,Electric,Automatic,1,998.0,5,Hyderabad,Black,Comprehensive,731310
+C0396,Renault,Duster,2024,5000.0,Petrol,Manual,1,1497.0,5,Delhi,Blue,Comprehensive,1372125
+C0397,Ford,EcoSport,2020,79744.0,Petrol,Manual,1,998.0,5,Hyderabad,White,Comprehensive,909046
+C0398,Honda,City,2014,107485.0,Petrol,Manual,4,1498.0,7,Ahmedabad,Blue,Comprehensive,762902
+C0399,Volkswagen,Vento,2014,122340.0,Petrol,Manual,1,1199.0,5,Delhi,Red,Comprehensive,761107
+C0400,Tata,Harrier,2017,68232.0,Petrol,Manual,1,1591.0,5,Chennai,Black,Comprehensive,1128453
+C0401,Mahindra,XUV500,2018,92484.0,Petrol,Manual,1,1998.0,5,Ahmedabad,Black,Comprehensive,1174746
+C0402,Tata,Safari,2022,54285.0,Diesel,Manual,1,2393.0,7,Hyderabad,Grey,Comprehensive,1732219
+C0403,Honda,Jazz,2022,38059.0,Petrol,Automatic,1,1197.0,7,Ahmedabad,Silver,Third Party,1357265
+C0404,Kia,Carens,2022,33308.0,Petrol,Manual,1,1591.0,5,Mumbai,Blue,Third Party,1531734
+C0405,Tata,Altroz,2021,70124.0,Petrol,Automatic,1,2755.0,7,Mumbai,Blue,Third Party,1324783
+C0406,Tata,Altroz,2016,107449.0,Petrol,Automatic,3,1197.0,5,Kolkata,Silver,Comprehensive,718455
+C0407,Renault,Kwid,2015,110398.0,Diesel,Manual,1,998.0,5,Bengaluru,Silver,Comprehensive,595583
+C0408,Hyundai,Creta,2019,50385.0,Petrol,Manual,1,1591.0,5,Mumbai,White,Third Party,1145753
+C0409,Tata,Nexon,2015,131113.0,Diesel,Manual,2,1199.0,7,Mumbai,Black,Third Party,638628
+C0410,Tata,Harrier,2017,96616.0,Diesel,Automatic,3,2755.0,5,Hyderabad,Black,Third Party,1223627
+C0411,Kia,Sonet,2017,98512.0,Diesel,Automatic,1,2393.0,5,Kolkata,Blue,Third Party,1327890
+C0412,Tata,Harrier,2018,72190.0,Petrol,Manual,2,2993.0,7,Delhi,Red,Comprehensive,1316084
+C0413,Hyundai,Verna,2015,112278.0,Petrol,Automatic,2,1591.0,7,Delhi,Silver,Comprehensive,840294
+C0414,Maruti,Baleno,2019,67214.0,Petrol,Automatic,1,1591.0,5,Jaipur,Black,Comprehensive,1024902
+C0415,Tata,Altroz,2021,44228.0,CNG,Manual,1,1998.0,5,Delhi,Grey,Comprehensive,1120330
+C0416,Toyota,Fortuner,2015,75124.0,Petrol,Manual,1,2179.0,5,Ahmedabad,Blue,Third Party,1600294
+C0417,Honda,Amaze,2021,36820.0,Diesel,Automatic,2,2393.0,7,Bengaluru,Red,Comprehensive,1431629
+C0418,Toyota,Etios,2019,82583.0,Petrol,Manual,1,2993.0,5,Chennai,White,Third Party,1404961
+C0419,Kia,Carens,2023,19046.0,Petrol,Automatic,1,1591.0,5,Delhi,Black,Third Party,1565527
+C0420,Maruti,Wagon R,2014,127037.0,Petrol,Manual,1,2393.0,5,Kolkata,Red,Comprehensive,564318
+C0421,Honda,City,2020,71692.0,Diesel,Manual,4,1998.0,5,Mumbai,Black,Comprehensive,1299474
+C0422,Tata,Nexon,2023,5409.0,Diesel,Manual,1,1199.0,5,Kolkata,Blue,Comprehensive,1442546
+C0423,Toyota,Glanza,2021,71692.0,Petrol,Automatic,1,998.0,5,Delhi,Red,Third Party,1285873
+C0424,Tata,Altroz,2019,66908.0,CNG,Manual,1,2179.0,7,Chennai,Silver,Comprehensive,1073155
+C0425,Tata,Altroz,2014,145443.0,Petrol,Manual,3,2755.0,5,Pune,Blue,Third Party,603110
+C0426,Mahindra,Thar,2024,9805.0,Petrol,Automatic,2,2179.0,5,Pune,Blue,Comprehensive,1836701
+C0427,Ford,Aspire,2015,122378.0,Petrol,Automatic,1,1199.0,5,Jaipur,White,Comprehensive,781273
+C0428,Ford,EcoSport,2014,133691.0,CNG,Manual,4,2755.0,5,Bengaluru,White,Comprehensive,546639
+C0429,Ford,Figo,2019,74099.0,Petrol,Manual,1,2393.0,5,Ahmedabad,Silver,Third Party,1094751
+C0430,Toyota,Fortuner,2021,46159.0,Diesel,Manual,3,998.0,5,Kochi,Grey,Third Party,2013027
+C0431,Ford,Aspire,2017,116836.0,Electric,Automatic,2,998.0,5,Pune,Red,Comprehensive,1088015
+C0432,Kia,Seltos,2022,42038.0,Petrol,Automatic,2,1199.0,7,Jaipur,White,Expired,1638071
+C0433,Volkswagen,Vento,2014,137292.0,Petrol,Manual,1,2755.0,7,Ahmedabad,White,Comprehensive,839837
+C0434,Maruti,Baleno,2019,55463.0,Diesel,Automatic,1,2393.0,7,Pune,Black,Comprehensive,1190976
+C0435,Mahindra,XUV500,2019,35942.0,Electric,Manual,1,2755.0,5,Kolkata,Black,Comprehensive,1663234
+C0436,Volkswagen,Virtus,2024,5000.0,Petrol,Manual,1,2393.0,5,Kochi,Black,Comprehensive,1749442
+C0437,Maruti,Swift,2024,18602.0,Diesel,Manual,3,1998.0,5,Jaipur,Grey,Comprehensive,1176067
+C0438,Honda,Amaze,2015,129361.0,Petrol,Manual,2,2755.0,5,Pune,Black,Third Party,828734
+C0439,Honda,Jazz,2014,110917.0,Petrol,Automatic,1,1497.0,5,Delhi,Red,Third Party,709852
+C0440,Mahindra,Scorpio,2022,21497.0,CNG,Manual,3,1591.0,5,Mumbai,Silver,Comprehensive,1341624
+C0441,Honda,City,2020,58282.0,Petrol,Manual,1,1199.0,5,Delhi,Black,Comprehensive,1393401
+C0442,Toyota,Etios,2016,76578.0,Petrol,Manual,1,1498.0,5,Ahmedabad,Blue,Third Party,886566
+C0443,Ford,Figo,2014,154014.0,Petrol,Manual,1,1998.0,5,Chennai,Black,Third Party,476402
+C0444,Mahindra,XUV500,2023,21540.0,Petrol,Manual,1,1591.0,7,Pune,Blue,Third Party,1684890
+C0445,Toyota,Etios,2016,105100.0,Diesel,Manual,2,1497.0,5,Delhi,Silver,Comprehensive,1130830
+C0446,Kia,Seltos,2023,16345.0,Diesel,Automatic,1,1197.0,7,Jaipur,Black,Comprehensive,1967692
+C0447,Renault,Duster,2015,94546.0,Petrol,Automatic,4,2179.0,5,Ahmedabad,Grey,Third Party,636667
+C0448,Toyota,Yaris,2020,66046.0,Petrol,Manual,1,1497.0,5,Ahmedabad,Blue,Expired,1427493
+C0449,Maruti,Baleno,2014,107142.0,Petrol,Automatic,2,1497.0,5,Delhi,Silver,Comprehensive,459097
+C0450,Maruti,Swift,2019,56659.0,Petrol,Automatic,1,1498.0,5,Kolkata,Grey,Third Party,789256
+C0451,Mahindra,XUV500,2016,116935.0,Petrol,Automatic,1,1497.0,5,Pune,Silver,Third Party,1173446
+C0452,Tata,Tiago,2014,100908.0,Diesel,Manual,1,1998.0,5,Delhi,Black,Third Party,516598
+C0453,Mahindra,Bolero,2015,124518.0,CNG,Manual,1,998.0,5,Bengaluru,White,Expired,630716
+C0454,Hyundai,Creta,2019,30151.0,Petrol,Automatic,1,1497.0,5,Mumbai,Red,Comprehensive,1390990
+C0455,Toyota,Fortuner,2015,110556.0,Diesel,Manual,2,2393.0,7,Jaipur,Black,Comprehensive,1822596
+C0456,Maruti,Swift,2020,56539.0,Petrol,Manual,1,2179.0,5,Kochi,Blue,Comprehensive,1144193
+C0457,Tata,Safari,2023,9496.0,Petrol,Manual,1,1591.0,5,Delhi,Red,Third Party,1597240
+C0458,Kia,Carens,2019,68245.0,CNG,Manual,3,2393.0,5,Ahmedabad,Silver,Third Party,1371474
+C0459,Tata,Harrier,2015,98737.0,Petrol,Manual,1,2993.0,5,Hyderabad,Blue,Expired,1106239
+C0460,Toyota,Glanza,2022,54040.0,Petrol,Manual,4,1497.0,7,Mumbai,Black,Third Party,1322883
+C0461,Volkswagen,Vento,2020,54451.0,Petrol,Manual,1,1497.0,5,Delhi,Blue,Comprehensive,1158242
+C0462,Mahindra,XUV500,2020,71636.0,Petrol,Manual,1,1998.0,5,Bengaluru,Silver,Comprehensive,1382026
+C0463,Ford,Figo,2024,37266.0,Diesel,Manual,1,998.0,5,Bengaluru,White,Comprehensive,1177458
+C0464,Toyota,Fortuner,2020,69930.0,Petrol,Manual,1,2993.0,7,Pune,Red,Comprehensive,2113630
+C0465,Ford,Aspire,2018,65756.0,Diesel,Manual,2,2755.0,7,Mumbai,Silver,Comprehensive,1103361
+C0466,Hyundai,Verna,2021,23374.0,CNG,Manual,1,2393.0,5,Jaipur,White,Comprehensive,1367858
+C0467,Kia,Seltos,2014,129720.0,Petrol,Automatic,3,1197.0,5,Hyderabad,Red,Third Party,984701
+C0468,Honda,Amaze,2018,87026.0,Petrol,Manual,2,2755.0,7,Mumbai,Silver,Third Party,1125187
+C0469,Hyundai,Verna,2016,111917.0,Electric,Manual,1,1591.0,5,Chennai,White,Comprehensive,1092698
+C0470,Mahindra,Bolero,2018,94128.0,Diesel,Automatic,1,1197.0,5,Ahmedabad,Silver,Comprehensive,1138261
+C0471,Toyota,Innova,2018,78417.0,Petrol,Manual,1,1498.0,5,Kolkata,Red,Comprehensive,1528994
+C0472,Ford,Endeavour,2015,105085.0,Petrol,Manual,3,1497.0,5,Kolkata,Red,Comprehensive,1181067
+C0473,Honda,Jazz,2020,90611.0,Diesel,Manual,1,1591.0,5,Pune,Silver,Comprehensive,997944
+C0474,Renault,Kwid,2024,17138.0,Petrol,Manual,3,1199.0,5,Mumbai,Silver,Expired,1024291
+C0475,Renault,Kiger,2017,91238.0,CNG,Manual,1,1591.0,5,Pune,Grey,Comprehensive,875469
+C0476,Mahindra,XUV300,2014,129118.0,Petrol,Manual,1,2179.0,5,Mumbai,Silver,Comprehensive,869684
+C0477,Ford,Figo,2020,102872.0,CNG,Manual,3,1497.0,7,Bengaluru,Black,Third Party,854685
+C0478,Hyundai,Grand i10,2018,83227.0,Petrol,Automatic,1,1591.0,5,Jaipur,Black,Comprehensive,1040126
+C0479,Mahindra,XUV300,2020,46314.0,Petrol,Manual,2,1498.0,5,Kochi,Silver,Comprehensive,1323464
+C0480,Tata,Altroz,2015,101623.0,Petrol,Automatic,1,1591.0,5,Chennai,Black,Comprehensive,800588
+C0481,Renault,Triber,2017,96830.0,Diesel,Automatic,1,2179.0,5,Ahmedabad,Black,Comprehensive,1012844
+C0482,Ford,Aspire,2016,87608.0,Diesel,Automatic,1,1998.0,7,Ahmedabad,White,Comprehensive,780545
+C0483,Volkswagen,Polo,2014,120080.0,Petrol,Manual,1,2755.0,5,Pune,White,Third Party,792363
+C0484,Ford,Aspire,2014,86167.0,Diesel,Manual,1,1199.0,7,Pune,Silver,Comprehensive,637194
+C0485,Mahindra,Scorpio,2022,33089.0,Petrol,Automatic,2,1591.0,5,Pune,Black,Comprehensive,1664183
+C0486,Renault,Triber,2017,66269.0,Diesel,Manual,1,1498.0,5,Kolkata,Black,Third Party,850196
+C0487,Volkswagen,Vento,2020,86414.0,Diesel,Manual,2,1197.0,7,Ahmedabad,White,Third Party,1182264
+C0488,Kia,Carens,2017,85870.0,Petrol,Manual,2,1199.0,5,Kochi,Black,Comprehensive,1117181
+C0489,Ford,Aspire,2021,30696.0,Petrol,Automatic,2,1591.0,5,Hyderabad,Blue,Comprehensive,1163272
+C0490,Tata,Harrier,2022,47694.0,Petrol,Automatic,1,1197.0,7,Hyderabad,Red,Third Party,1509706
+C0491,Hyundai,Verna,2024,18856.0,Petrol,Automatic,1,1498.0,5,Ahmedabad,Black,Comprehensive,1468774
+C0492,Toyota,Fortuner,2019,70209.0,Diesel,Manual,2,2393.0,5,Kolkata,Silver,Third Party,2066845
+C0493,Mahindra,XUV500,2018,72021.0,Diesel,Automatic,1,2755.0,7,Kochi,Grey,Third Party,1531815
+C0494,Kia,Carens,2020,33818.0,Petrol,Automatic,1,1199.0,5,Mumbai,Blue,Comprehensive,1428820
+C0495,Kia,Carens,2016,106874.0,Petrol,Manual,1,1197.0,5,Kochi,Silver,Comprehensive,1111724
+C0496,Kia,Sonet,2020,51715.0,Petrol,Automatic,2,1998.0,5,Kochi,Silver,Comprehensive,1413444
+C0497,Toyota,Yaris,2015,86272.0,Petrol,Manual,1,2993.0,5,Delhi,Grey,Comprehensive,1153328
+C0498,Honda,City,2018,59124.0,Diesel,Manual,2,998.0,5,Jaipur,Black,Comprehensive,1094363
+C0499,Mahindra,XUV300,2017,82256.0,Diesel,Manual,1,1199.0,5,Delhi,Red,Third Party,1167812
+C0500,Volkswagen,Vento,2016,113568.0,Petrol,Automatic,1,1199.0,5,Ahmedabad,Grey,Comprehensive,974862
